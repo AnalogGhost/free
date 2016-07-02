@@ -74,5 +74,7 @@ Items in **bold** are resources I personally use.
 - [Hype Machine](http://hypem.com/)
 - [Jamendo](https://www.jamendo.com/)
 - **[OCRemix](http://ocremix.org/) (Video Game Music Remixes)**
+- **[Pandora](http://pandora.com)**
+- **[Spotify](http://spotify.com)**
 - **[Youtube](https://youtube.com/)**
 - [Zelda Reorchestrated](http://www.zreomirror.com/)
