@@ -43,7 +43,9 @@ Items in **bold** are resources I personally use.
 - [FutureLearn](https://futurelearn.com/)
 - [MIT OpenCourseWare](http://ocw.mit.edu/index.htm)
 - [Open College at Kaplan University](https://opencollege.kaplan.com/)
+- [Open Yale Courses](http://oyc.yale.edu/)
 - [Open Education Database](http://oedb.org/open/)
+- [Open University](http://www.open.edu/openlearn/)
 - **[Udacity](https://udacity.com)**
 - **[Udemy](https://www.udemy.com/)**
 
@@ -58,6 +60,7 @@ Items in **bold** are resources I personally use.
 
 ###Other
 - **[Anki](http://ankisrs.net/) (Flash Cards)**
+- [BBC Learning](http://www.bbc.co.uk/learning/)
 - [Codecademy](http://www.codecademy.com/)
 - [FreeCodeCamp](https://www.freecodecamp.com/)
 - [Hacker Rank](https://www.hackerrank.com/)
