@@ -18,6 +18,7 @@ Items in **bold** are resources I personally use.
 ##Ebooks
 - [Bookzz](http://bookzz.org/)
 - [Feedbooks](http://www.feedbooks.com/)
+- [Free Programming Ebooks](https://github.com/vhf/free-programming-books)
 - **[Project Gutenberg](http://www.gutenberg.org/)**
 - [SmashWords](https://www.smashwords.com/books/category/1/newest/0/free/any)
 
